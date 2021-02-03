@@ -1,0 +1,22 @@
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${random.int}
+    
+  client:
+    service-url:
+      defaultZone: http://localhost:8092/eureka
+      
+spring:
+  datasource:
+    url: jdbc:h2:mem:productdb
+    driver-class-name: org.h2.Driver
+    username: ibm
+    password: ibm
+  h2:
+    console:
+      enabled: true
+     
+  
+msg: Hello world - this is tax tax from config server production environment
+
+

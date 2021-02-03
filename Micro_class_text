@@ -1,0 +1,96 @@
+what is IBM HR number?
+08071078787
+
+
+
+https://ibm.webex.com/meet/nemani14
+ 
+URL to access Virtual Machine  : https://mml.iiht.tech
+
+User ID: iiht\w2cluster507
+
+Password : pass@word1
+
+
+Our Escalation Matrix
+Level 1 - virtuallabs.ibm@iiht.com / +91-9108576293
+Level 2 – amit.s@iiht.com
+
+
+
+apache-maven-3.6.3-bin
+jdk-8u161-windows-x64
+spring-tool-suite-4-4.2.0.RELEASE-e4.11.0-win32.win32.x86_64
+spring-tool-suite-4-4.2.0.RELEASE-e4.11.0-win32.win32.x86_64
+
+
+
+http://localhost:8093/h2-console/login.jsp?jsessionid=2742249c12dc92b263a6bfe54d9d15ff
+
+https://github.com/newtonmn/virtuallabSeptember21/
+
+http://localhost:8093/product
+
+
+after setting port docker run -d -p 8300:8300 imagename when I try to run firstdemo with http://192.168.99.100:8300/simple 
+
+master-- Master : 192.168.99.104 and 10.0.2.5
+Node01-- Node01 : 192.168.99.105 and 10.0.2.6
+Node02-- Node02 : 192.168.99.106 and 10.0.2.7
+
+
+
+docker run -d -p 8110:8110 newtonmn/configserverv1:latest --env git.uri=https://github.com/newtonmn/virtualseptemberrepo.git  --env git.username=newtonmn --env git.password=5adace418d1ebfb3886e381ab08fb30b39d76e11 eureka.url=http://192.168.99.100:8090/eureka
+
+
+==========================
+C:\Windows\system32>docker-machine env docker-vm1
+SET DOCKER_TLS_VERIFY=1
+SET DOCKER_HOST=tcp://192.168.99.100:2376
+SET DOCKER_CERT_PATH=C:\Users\w2cluster507\.docker\machine\machines\docker-vm1
+SET DOCKER_MACHINE_NAME=docker-vm1
+SET COMPOSE_CONVERT_WINDOWS_PATHS=true
+REM Run this command to configure your shell:
+REM     @FOR /f "tokens=*" %i IN ('docker-machine env docker-vm1') DO @%i
+
+
+
+
+docker run -d --hostname my-rabbit --name some-rabbit -p 15672:15672 -p 5672:5672 rabbitmq
+
+
+give entry in yaml file for product service..
+rabbit mq url...
+http://192.168.99.100:15672/
+
+
+docker hub......
+vicky25srm
+resham123
+
+give JAVA_HOME path varibile
+C:\Users\w2cluster507\Downloads\virtuallabSeptember21-master(11)\virtuallabSeptember21-master
+C:\Users\w2cluster507\Downloads\virtuallabSeptember21-master(11)\virtuallabSeptember21-master\myfirstdemo
+
+mvn clean package -DskipTests
+from Newton Maninathan (IBM) to everyone:    11:46 AM
+docker build -t dockeruserid/imagename:latest .
+docker build -t vicky25srm/myfirstdemo-docker-vm1:latest .
+docker build -t vicky25srm/simple-docker-docker-vm1:latest .
+
+docker run -d -p 8032:8032 simple-docker.jar
+http://192.168.99.100:8032/simple-docker
+
+after setting port docker run -d -p 8300:8300 imagename 
+when I try to run firstdemo with 
+http://192.168.99.100:8300/simple-docker
+
+
+
+
+eyJhbGciOiJSUzI1NiIsImtpZCI6ImtmR2tZZ00wZlFJaEFHX1Fya19Zb1l1NzRLUGpjWW04QXFKaTZhV2VQaUUifQ.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJrdWJlLXN5c3RlbSIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VjcmV0Lm5hbWUiOiJrOHNhZG1pbi10b2tlbi13aHc4OCIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50Lm5hbWUiOiJrOHNhZG1pbiIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50LnVpZCI6IjY5ZTUxNjk0LWUzM2EtNGY0Yy04Y2YzLTY4YWFkOGY4NmUyNSIsInN1YiI6InN5c3RlbTpzZXJ2aWNlYWNjb3VudDprdWJlLXN5c3RlbTprOHNhZG1pbiJ9.EgXzvB9GbT7MriDfIj5KOH6CbiejPiViOlfJoU51byDAR7YQvUDW_JJKkpCYeNrv8xzMYoPC0adjGzs2misf-PNozZc4wmqnF9FgyOxN9_6UHuzw5TFe1WzyPBErpQs8GjDlM2a1ykUXNOEzoHU9C_qaJWD4N-27KZp4Bj_5xTx11yfaZpUkXopQQO6t54KOk7r_Iv1cYsxsVv_7_dZ8oyzrlh800IukBa-bH_UzJsELa2VElkrMVg6xAtNhksab6gG9Y4Bpw8bNdcK5priE8Y5BfM9JSPeSPBm2QmxgPD6UKk0ytudM6nTnLqS0qlDr47fONBhfGHT9iXLTICvvhA
+
+
+
+
+
